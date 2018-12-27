@@ -1,5 +1,5 @@
 # EOPL
-Course Comparative Programming Languages: EOPL
+Course Comparative Programming Languages: EOPL (Essentials of Programming Languages)
 
 **Academic Year**: 2014-2015 (1st semester - 2nd Master of Science in Engineering: Computer Science)
 
